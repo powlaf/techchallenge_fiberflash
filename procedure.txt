@@ -1,0 +1,4 @@
+Procedure
+
+Image of Polohemd
+--> Object Detection of Buttons with OpenCV 
